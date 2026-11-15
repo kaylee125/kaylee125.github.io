@@ -1,21 +1,21 @@
 baseURL: https://kaylee125.github.io/
 locale: ko-KR
 defaultContentLanguage: ko
-title: 한 행의 의미
+title: Sunhee Lee
 theme: PaperMod
 enableRobotsTXT: true
 
 params:
-  author: kaylee125
-  description: 데이터 엔지니어의 업무 회고와 학습 기록
+  author: Sunhee Lee
+  description: Data Engineer — 업무 회고와 학습 기록
   defaultTheme: auto
   ShowReadingTime: true
   ShowToc: true
   ShowCodeCopyButtons: true
   ShowPostNavLinks: true
   homeInfoParams:
-    Title: 한 행의 의미
-    Content: 데이터 모델링, 지표, 품질, 파이프라인을 다루며 배운 것을 기록합니다.
+    Title: Sunhee Lee
+    Content: "**Data Engineer**\n\n데이터 모델링, 지표, 품질, 파이프라인을 다루며 배운 것을 기록합니다."
 
 menu:
   main:
